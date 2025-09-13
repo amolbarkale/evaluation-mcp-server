@@ -1,0 +1,11 @@
+fastapi[stanadard]
+fastmcp
+langchain
+langchain-core
+langgraph
+langgraph-supervisor
+langchain-openai
+langchain[openai]
+python-dotenv
+db-sqlite3
+langchain_community 
